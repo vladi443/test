@@ -2,13 +2,13 @@
 title: Ziggurat
 subtitle: by Vladislav Nedelchev
 email: nvlad@vt.edu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Test<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 3
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
