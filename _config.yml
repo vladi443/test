@@ -17,6 +17,7 @@ tiles-count: 3
 socials:
   GitHub: https://github.com/andrewbanchich
   LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  Email: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 
 # build settings
 markdown: kramdown
