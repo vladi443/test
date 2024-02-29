@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Ziggurat Systems'
 description: null
-image: null
+image: banner.jpg
 author: null
 show_tile: false
 ---
